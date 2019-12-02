@@ -18,7 +18,7 @@
 
 * You can use [repl.it online editor](https://repl.it/site/languages/javascript)
 
-* Start with Gordon Zhu's Watch and Code[Practical JavaScript](https://watchandcode.com/)
+* Start with Gordon Zhu's Watch and Code [Practical JavaScript](https://watchandcode.com/)
 
 * Then do Wes Bos' [Practical JavaScript 30](https://javascript30.com/) course
 
