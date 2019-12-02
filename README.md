@@ -26,8 +26,6 @@
 ### Need to Know
 * Github
 * React
-* Redux/Context API
-* Apollo/GraphQL
 * HTTP Protocol
 * Databases (Relational vs NoSQL)
 * HTML
