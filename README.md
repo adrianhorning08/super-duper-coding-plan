@@ -20,6 +20,8 @@
 
 * Start with Gordon Zhu's Watch and Code [Practical JavaScript](https://watchandcode.com/)
 
+* Do Wes Bos' [Beginner JavaScript Course](https://beginnerjavascript.com/)
+
 * Then do Wes Bos' [Practical JavaScript 30](https://javascript30.com/) course
 
 ## Starting to Build Stuff
